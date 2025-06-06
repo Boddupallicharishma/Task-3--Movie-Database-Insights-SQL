@@ -1,0 +1,46 @@
+--- Top 10 Highest-Grossing Movies ---
+title,revenue
+The Dark Knight,1004558444
+Inception,829895144
+Interstellar,677471339
+Dunkirk,526940665
+Tenet,365300000
+
+--- Average Rating Per Genre ---
+genre,avg_rating
+Action,9.0
+Sci-Fi,8.3
+War,7.9
+
+--- Top 5 Directors by Average Movie Rating ---
+name,avg_director_rating
+Christopher Nolan,8.36
+
+--- Number of Movies Released Per Year ---
+release_year,total_movies
+2008,1
+2010,1
+2014,1
+2017,1
+2020,1
+
+--- Top 10 Most Featured Actors ---
+name,total_movies
+Leonardo DiCaprio,1
+Christian Bale,1
+Matthew McConaughey,1
+
+--- Highly Rated and High-Grossing Movies ---
+title,avg_rating,revenue
+Inception,8.8,829895144
+Interstellar,8.6,677471339
+The Dark Knight,9.0,1004558444
+
+--- Movies with Highest ROI ---
+title,revenue,budget,roi
+The Dark Knight,1004558444,185000000,5.43
+Inception,829895144,160000000,5.19
+Interstellar,677471339,165000000,4.11
+Dunkirk,526940665,100000000,5.27
+Tenet,365300000,205000000,1.78
+
